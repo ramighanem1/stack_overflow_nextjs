@@ -4,6 +4,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+```
+git clone git@github.com:ramighanem1/stack_overflow_nextjs.git
+
+cd stack_overflow_nextjs
+```
+
+```
+npm install
+```
+
 ```bash
 npm run dev
 # or
